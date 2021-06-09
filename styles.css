@@ -11,7 +11,7 @@ header{
     width: 100%;
     text-align: center;
     padding: 20px;
-    background-color: #E63946;
+/*     background-color: #E63946; */
 }
 header h1{
     display: inline-block;
@@ -27,7 +27,7 @@ nav{
     background-color: #457B9D;
     padding: 20px;
     position: sticky;
-    top: 0px;
+    top: 150px;
 }
 nav ul{
     white-space: nowrap;
