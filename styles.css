@@ -26,6 +26,8 @@ header h1 span{
 nav{
     background-color: #457B9D;
     padding: 20px;
+    position: sticky;
+    top: 0;
 }
 nav ul{
     white-space: nowrap;
@@ -60,8 +62,11 @@ main a{
 article{
     line-height: 2em;
     font-size: 25px;
+    text-justify: auto;
 }
-
+.article-intro{
+    color: #f5cac3;
+}
 article ul li{
     margin: 20px 10%;
 }
