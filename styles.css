@@ -11,11 +11,11 @@ header{
     width: 100%;
     text-align: center;
     padding: 20px;
-/*     background-color: #E63946; */
+    background-color: #E63946;
 }
 header h1{
     display: inline-block;
-    color: #fec5bb;
+/*     color: #fec5bb; */
     padding: 6px 12px;
 }
 header h1 span{
