@@ -69,8 +69,9 @@ article ul li{
 section {
     background: #457B9D;
     text-align: center;
-    padding: 60px 20px;
+    padding: 20px 20px;
     color: #A8DADC;
+    padding-bottom: 40px;
 }
 .social p{
     font-size: 1.5em;
