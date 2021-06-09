@@ -15,7 +15,7 @@ header{
 }
 header h1{
     display: inline-block;
-/*     color: #fec5bb; */
+    color: #fec5bb;
     padding: 6px 12px;
 }
 header h1 span{
@@ -27,7 +27,7 @@ nav{
     background-color: #457B9D;
     padding: 20px;
     position: sticky;
-    top: 150px;
+    top: 0px;
 }
 nav ul{
     white-space: nowrap;
