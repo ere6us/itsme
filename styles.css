@@ -27,7 +27,7 @@ nav{
     background-color: #457B9D;
     padding: 20px;
     position: sticky;
-    top: 0px;
+    top: 0;
 }
 nav ul{
     white-space: nowrap;
@@ -115,4 +115,14 @@ a:hover{
 .social ul li:hover{
     position: relative;
     top: -4px;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 490px)   {
+    h1{
+        font-size: 1.5em;
+    }
+    p, li{
+        font-size: 0.95em;
+    }
 }
